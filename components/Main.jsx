@@ -8,7 +8,7 @@ const Main = () => {
                 <img src="assets/img/hero-bg.jpg" alt="" className="" />
                 <div className="container" data-aos-delay="100">
                     <h2>Bassaki</h2>
-                    <p>Our <span className="typed" data-typed-items="Designer, Developer, Freelancer, Photographer">Full-stack developers</span><span className="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span className="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+                    <p>We are <span className="typed" data-typed-items="Designer, Developer, Freelancer, Photographer">Full-stack developers</span><span className="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span className="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
                 </div>
             </section>
 
