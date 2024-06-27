@@ -3,6 +3,7 @@ import "./globals.css";
 import Head from "@/components/Head"
 import NavBar from "@/components/NavBar"
 import Footer from "@/components/Footer"
+import AOS from 'aos';
 
 const inter = Inter({ subsets: ["latin"] });
 
