@@ -1,10 +1,10 @@
 import React from 'react';
 
-const NavBar = () => {
+const PortfolioSection = () => {
     return (
         <section>
         </section>
     );
 }
 
-export default NavBar;
+export default PortfolioSection;
