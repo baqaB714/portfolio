@@ -3,9 +3,11 @@ import React from 'react';
 const NavBar = () => {
     return (
         <section>
-            <div className='bg-red-900 text-yellow-400 w-20 h-16'>
-                jhjjjjjjjjjjjjjjffffffffffffj
-
+            <div className='bg-slate-900  w-1/5 h-screen'>
+                <div id='avatarSection' className='jus'>
+                    <img src="/assets/img/my-profile-img.jpg" className='w-2/5' alt="" />
+                    <h3 className='text-white'>Abbas Bassaki</h3>
+                </div>
             </div>
         </section>
     );
